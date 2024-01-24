@@ -1,12 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/34/65/26/34652604f208414c3a074593ffe7f5d9.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img height="150" src="https://miro.medium.com/v2/resize:fit:1358/1*U3WRRwLx3zeDkHmIVGLJdw.gif"  />
 </div>
 
 ###
