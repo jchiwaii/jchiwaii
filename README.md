@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🔭 I'm a curious learner who is always exploring new languages and technologies 💡<br>📚 Currently diving into the world of Machine Learning and Data Science 💻<br>⚡ In my free time, you can find me with my nose buried in a good book 📚<br>🤖 I am here for tiny experiments and full-fledged projects 🎨</p>
+<p align="center">🔭 Curious 💡<br>📚 Machine Learning and Data Science 💻<br>⚡ In my free time, you can find me with my nose buried in a good book 📚<br>🤖 I am here for tiny experiments and full-fledged projects 🎨</p>
 
 ###
 
