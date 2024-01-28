@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  Chiwai Here👋</h3>
+<h3 align="center">👩‍💻 Chiwai Here👋</h3>
 
 ###
 
