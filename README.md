@@ -4,11 +4,7 @@
 
 ###
 
-<h1 align="center">Howdy😉</h1>
-
-###
-
-<h3 align="center">👩‍💻 Chiwai Here👋</h3>
+<h1 align="center">./</h1>
 
 ###
 
