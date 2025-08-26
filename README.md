@@ -1,11 +1,9 @@
-# 👋 Hi there, I'm John
+# 👋 ....
 
-## 📌 About
-
-- 🎓 Certified Actuary, and Data Scientist.
+- 🎓 Certified Actuary, + Data Scientist.
 - 📊 Ask me about Data + Statistics + Web.
 - 💡 Data models shouldn't necessarily end in Jupyter Notebooks.
-- 🌐 Currently, Gen AI + Web3.
+- 🌐 Currently, Gen AI + Web3 + Pixels.
 
 ---
 
@@ -16,5 +14,5 @@
 
 ---
 
-Gracious
+....
 
